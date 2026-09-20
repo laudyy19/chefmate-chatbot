@@ -218,15 +218,3 @@ AI assistant digunakan sebagai bantuan dalam:
 Mahasiswa melakukan konfigurasi API key, menjalankan dan menguji
 program, serta memahami konsep dan fungsi utama kode yang digunakan.
 
-## 13. Checklist Tugas
-
-- [x] Menggunakan API LLM
-- [x] Memiliki system prompt
-- [x] Memiliki conversation history
-- [x] Memiliki error handling
-- [x] Memiliki minimal 2 perintah khusus
-- [x] Streaming response
-- [x] Menyimpan riwayat percakapan
-- [x] Statistik percakapan
-- [x] API key tidak disimpan di source code
-- [x] Tidak membutuhkan training model
