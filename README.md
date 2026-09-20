@@ -218,3 +218,8 @@ AI assistant digunakan sebagai bantuan dalam:
 Mahasiswa melakukan konfigurasi API key, menjalankan dan menguji
 program, serta memahami konsep dan fungsi utama kode yang digunakan.
 
+## 13. Dokumentasi 
+<img width="1607" height="872" alt="image" src="https://github.com/user-attachments/assets/4b3ed7cc-984f-4681-bcbe-3d04c95b19db" />
+<img width="1615" height="836" alt="image" src="https://github.com/user-attachments/assets/88ab661b-b257-4446-817b-0cbf821503f8" />
+<img width="1605" height="275" alt="image" src="https://github.com/user-attachments/assets/012ba532-2956-44eb-8c9e-98e8a8b83ece" />
+
